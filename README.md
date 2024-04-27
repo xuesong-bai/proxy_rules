@@ -5,11 +5,11 @@ This repo contains the scripts to block the ads on some software and websites.
 
 ## Uage
 
-Add the following to the configuration file.
+Add the following to the configuration file for Quantumult X.
 
 ```
 [rewrite_remote]
-https://raw.githubusercontent.com/xuesong-bai/proxy_rules/main/Rewrite/AdBlock/Weibo.adblock, tag=微博去广告
+https://raw.githubusercontent.com/xuesong-bai/proxy_rules/main/Rewrite/AdBlock/Weibo.adblock, tag=Weibo-AdBlock
 ```
 
 ## Special thanks:
