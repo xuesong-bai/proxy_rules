@@ -10,6 +10,7 @@ Add the following to the configuration file for Quantumult X.
 ```
 [rewrite_remote]
 https://raw.githubusercontent.com/xuesong-bai/proxy_rules/main/Rewrite/AdBlock/Weibo.adblock, tag=Weibo-AdBlock
+https://raw.githubusercontent.com/xuesong-bai/proxy_rules/main/Rewrite/AdBlock/Boohee.adblock, tag=Boohee-AdBlock
 ```
 
 ## Special thanks:
